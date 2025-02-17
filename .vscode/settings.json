@@ -1,0 +1,7 @@
+{
+    "deno.enable": true, // Ativa o Deno
+    "deno.lint": true, // Ativa o lint do Deno
+    "editor.formatOnSave": true, // Formatar o código ao salvar
+    "editor.defaultFormatter": "denoland.vscode-deno", // Define o Deno como formatador padrão
+    "deno.importMap": "./import_map.json"
+}
